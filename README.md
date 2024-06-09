@@ -44,9 +44,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VarshithNaiduLPU/VarshithNaiduLPU/output/snake.svg" alt="Snake animation" />
-
-###
