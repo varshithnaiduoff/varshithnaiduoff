@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VarshithNaiduLPU&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=VarshithNaiduLPU&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=VarshithNaiduLPU&locale=en&mode=daily&theme=dark&border_radius=5" height="140" alt="streak graph"  />
 </div>
 
 ###
